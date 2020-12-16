@@ -11,7 +11,7 @@
 </center>   
 <a href="https://www.linkedin.com/in/oliveiragabriel13"><img src="https://raw.githubusercontent.com/Xavierxxxa/Xavierxxxa/main/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/oliveiragabriel13)
 
-<a href="https://www.linkedin.com/in/oliveiragabriel13"><img src="https://github.com/seu_usuário/oliveiragabriel13/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/seu_usuário)
+<a href="https://www.linkedin.com/in/oliveiragabriel13"><img src="https://raw.githubusercontent.com/Xavierxxxa/Xavierxxxa/main/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/seu_usuário)
 <!--
 **Xavierxxxa/Xavierxxxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
