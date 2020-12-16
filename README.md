@@ -9,8 +9,8 @@
     </tr>   
 </table>
 </center>  
-
-<a href="https://www.linkedin.com/in/oliveiragabriel13"><img src="C:/Users/xavie/Downloads/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/oliveiragabriel13)
+<script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script> 
+<a href="https://www.linkedin.com/in/oliveiragabriel13"><i class="fab fa-linkedin-in"></i></a> [LinkedIn](https://www.linkedin.com/in/oliveiragabriel13)
 <!--
 **Xavierxxxa/Xavierxxxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
