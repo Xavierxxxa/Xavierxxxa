@@ -11,7 +11,7 @@
 </center>   
 Sou iniciante na área de programação, atualmente estou cursando Análise e Desenvolvimento de Sistemas na FATEC de São Paulo e Desenvolvimento FullStack na Ong de tecnologia RecodePro.
 Perfil em evolução ⚡
----
+<hr/>
 <a href="https://www.linkedin.com/in/oliveiragabriel13"><img src="https://raw.githubusercontent.com/Xavierxxxa/Xavierxxxa/main/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/oliveiragabriel13)
 
 <!--
