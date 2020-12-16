@@ -9,7 +9,6 @@
     </tr>   
 </table>
 </center>   
-<a href="https://www.linkedin.com/in/oliveiragabriel13"><img src="https://raw.githubusercontent.com/Xavierxxxa/Xavierxxxa/main/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/oliveiragabriel13)
 
 <a href="https://www.linkedin.com/in/oliveiragabriel13"><img src="https://raw.githubusercontent.com/Xavierxxxa/Xavierxxxa/main/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/oliveiragabriel13)
 <!--
