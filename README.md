@@ -9,9 +9,12 @@
     </tr>   
 </table>
 </center>   
-Sou iniciante na área de programação, atualmente estou cursando Análise e Desenvolvimento de Sistemas na FATEC de São Paulo e Desenvolvimento FullStack na Ong de tecnologia RecodePro.
+Parece meio clichê profissionais de TI dizerem que são apaixonados por tecnologia, eu diria que sou apaixonado por encontrar soluções com o auxílio da tecnologia😁. Problemas complexos sempre me instigaram, a satisfação por criar soluções que impactem positivamente a vida das pessoas é simplesmente mágico.
+Estagiário de TI no Bradesco, atuo no time de Informações Gerenciais, responsável por gerar insights por meio de análise de dados, construção de dashboards e indicadores.
+Além de trabalhar como estagiário, sou estudante de Análise e Desenvolvimento de Sistema na FATEC - SP. Estou me encontrando na área de tecnologia, buscando adquirir o máximo de experiência possível antes de me especializar.
+Atualmente, estou trabalhando com analise de dados, porém, sou formado Desenvolvedor Web Fullstack pela ONG RECODE Pro. Sendo assim, tive a oportunidade de desenvolver diversos projetos Web e Mobile, todos disponíveis aqui no Github!
 <br/>
-Perfil em evolução ⚡
+Em evolução constante⚡
 <hr/>
 
 <a href="https://www.linkedin.com/in/oliveiragabriel13"><img src="https://raw.githubusercontent.com/Xavierxxxa/Xavierxxxa/main/linkedin.png" width="16"></img></a> 
